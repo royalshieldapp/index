@@ -1,2 +1,13 @@
 # index
 website background
+node_modules
+dist
+.vite
+.DS_Store
+.env
+.env.local
+.env.*.local
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
